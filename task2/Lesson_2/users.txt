@@ -1,0 +1,9 @@
+e04d8135-bf9c-4d39-a33f-536147fa146a|roman@gmail.com|qwerty008|Programmer
+70fabe4e-d1a6-426e-92ed-2ea6ae67e15c|sidikov@gmail.com|qwerty007|Programmer
+bf3ba261-92b6-43db-b80f-bc9f3e7728eb|roman@gmail.com|qwerty008|QA AUTO
+5a142c5a-05b3-4a99-9d48-1472f13f069c|roman@gmail.com|qwerty008|QAUTO
+f8f6156d-fd8f-4039-b6f4-7e143d3d36d4|roman@gmail.com|qwerty008|ЙЙЙЙ
+e1d048eb-22f4-4f92-8d25-6d502afe26f1|sidikov@gmail.com|qwerty007|JAVALOVE
+7f96812d-3b58-4454-af66-b649543e5c45|sidikov@gmail.com|qwerty007|sidikov@gmail.com
+bb976515-d71a-4ff6-98c3-e96dac0c4292|sidikov@gmail.com|qwerty007|LOVELOVE
+a24d29b2-94ec-4c52-a308-a5d67f3b3c2f|roman@gmail.com|qwerty008|JAVAONELOVE
